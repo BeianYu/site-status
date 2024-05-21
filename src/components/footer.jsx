@@ -36,7 +36,7 @@ const Footer = () => {
         <p>
           Copyright&nbsp;&copy;&nbsp;{new Date().getFullYear()}
           &nbsp;
-          <CustomLink to="https://home.yuai.cloud/" text="Yuai" />
+          <CustomLink to="https://yuai.live/" text="Yuai" />
           {siteIcp ? (
             <React.Fragment>
               &nbsp;|&nbsp;
